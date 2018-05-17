@@ -6,9 +6,6 @@ import main.Movie;
 
 import static org.junit.Assert.*;
 
-/**
- * Created by D067833 on 04.05.2018.
- */
 public class MovieTest {
 
     @Test

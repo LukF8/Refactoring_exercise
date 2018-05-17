@@ -7,9 +7,7 @@ import main.Rental;
 
 import static org.junit.Assert.*;
 
-/**
- * Created by D067833 on 04.05.2018.
- */
+
 public class RentalTest {
 
     @Test
